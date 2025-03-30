@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @pundit-us
-- 👀 I’m interested in playing with code
 
 
 <!---
